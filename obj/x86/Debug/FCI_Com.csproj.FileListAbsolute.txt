@@ -1,0 +1,14 @@
+F:\FCI_Com\FCI_Com\FCI_Com\bin\Debug\FCI_Com.exe
+F:\FCI_Com\FCI_Com\FCI_Com\bin\Debug\FCI_Com.pdb
+F:\FCI_Com\FCI_Com\FCI_Com\obj\x86\Debug\FCI_Com.Form1.resources
+F:\FCI_Com\FCI_Com\FCI_Com\obj\x86\Debug\FCI_Com.Properties.Resources.resources
+F:\FCI_Com\FCI_Com\FCI_Com\obj\x86\Debug\FCI_Com.csproj.GenerateResource.Cache
+F:\FCI_Com\FCI_Com\FCI_Com\obj\x86\Debug\FCI_Com.exe
+F:\FCI_Com\FCI_Com\FCI_Com\obj\x86\Debug\FCI_Com.pdb
+F:\FCI_Com\FCI_Com\FCI_Com\obj\x86\Debug\FCI_Com.LoginFrm.resources
+F:\FCI_Com\FCI_Com\FCI_Com\obj\x86\Debug\FCI_Com.csprojResolveAssemblyReference.cache
+F:\FCI_Com\FCI_Com\FCI_Com\obj\x86\Debug\FCI_Com.SignUpFrm.resources
+F:\FCI_Com\FCI_Com\FCI_Com\obj\x86\Debug\FCI_Com.OpenFrm.resources
+F:\FCI_Com\FCI_Com\FCI_Com\obj\x86\Debug\FCI_Com.ComposeFrm.resources
+F:\FCI_Com\FCI_Com\FCI_Com\obj\x86\Debug\FCI_Com.ProfileInfoFrm.resources
+F:\FCI_Com\FCI_Com\FCI_Com\obj\x86\Debug\FCI_Com.RecievedFilesFrm.resources
